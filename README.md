@@ -50,6 +50,7 @@ addpath(genpath('fiberphotometry/src'))
 addpath(genpath('utils_core'))
 ```
 
-### 3. Run the main script
-main_fiberphotometry
+### 3. Run the main scripts
+main_dopamine % to plot dopamine (GRAB-DA) signals
+main_acetylcholine % to plot acetylcholine (GRAB-ACh) signals
 
