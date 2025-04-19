@@ -26,7 +26,6 @@ src/
 | `getFlByRewDelay.m` | Extracts fiber photometry signal for different reward delays |
 | `getFlByRewSide.m` | Extracts fiber photometry signal by reward side relative to recording hemisphere (contra/ipsi) |
 | `getFlByRewVol.m` | Extracts fiber photometry signal for different reward volumes |
-| `plotEventAlignedDA.m` | Plots event-aligned fiber photometry signals across all the above conditions |
 
 ---
 
