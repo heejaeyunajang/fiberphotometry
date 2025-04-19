@@ -1,6 +1,6 @@
 # fiberphotometry
 
-This repository contains preprocessing, analysis, and visualization code for fiber photometry recordings during a temporal wagering task. The recordings are fiber photometry measurements of an optical sensor (GRAB), aligned to behavioral events across multiple reward and block conditions.
+This repository contains preprocessing, analysis, and visualization code for fiber photometry recordings (dopamine and acetylcholine) during a temporal wagering task. The recordings are fiber photometry measurements of an optical sensor (GRAB), aligned to behavioral events across multiple reward and block conditions.
 
 This repo supports:
 - Extraction of average fluorescence signals aligned to task events
